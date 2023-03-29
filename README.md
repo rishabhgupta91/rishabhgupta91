@@ -1,16 +1,10 @@
 ### Hi there 👋
 
-<!--
-**rishabhgupta91/rishabhgupta91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Applying structured Merton models on company's financial data 
 - 🌱 I’m currently learning credit risk modelling
 - 👯 I’m looking to collaborate on any financial modelling project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+

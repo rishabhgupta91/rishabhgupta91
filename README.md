@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Have a look at my university research projects on Time series, Machine learning and Regression analysis.
+Have a look at my university research projects on Time series, Linear Regression, and Backtesting of a trading strategy.
 
 
 
